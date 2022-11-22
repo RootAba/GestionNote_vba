@@ -1,0 +1,17 @@
+C:\Users\ABASSE\source\repos\NoteExamen_P3\NoteExamen_P3\bin\Debug\net6.0-windows\NoteExamen_P3.exe
+C:\Users\ABASSE\source\repos\NoteExamen_P3\NoteExamen_P3\bin\Debug\net6.0-windows\NoteExamen_P3.deps.json
+C:\Users\ABASSE\source\repos\NoteExamen_P3\NoteExamen_P3\bin\Debug\net6.0-windows\NoteExamen_P3.runtimeconfig.json
+C:\Users\ABASSE\source\repos\NoteExamen_P3\NoteExamen_P3\bin\Debug\net6.0-windows\NoteExamen_P3.dll
+C:\Users\ABASSE\source\repos\NoteExamen_P3\NoteExamen_P3\bin\Debug\net6.0-windows\NoteExamen_P3.pdb
+C:\Users\ABASSE\source\repos\NoteExamen_P3\NoteExamen_P3\obj\Debug\net6.0-windows\NoteExamen_P3.vbproj.AssemblyReference.cache
+C:\Users\ABASSE\source\repos\NoteExamen_P3\NoteExamen_P3\obj\Debug\net6.0-windows\NoteExamen_P3.Form1.resources
+C:\Users\ABASSE\source\repos\NoteExamen_P3\NoteExamen_P3\obj\Debug\net6.0-windows\NoteExamen_P3.vbproj.GenerateResource.cache
+C:\Users\ABASSE\source\repos\NoteExamen_P3\NoteExamen_P3\obj\Debug\net6.0-windows\NoteExamen_P3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABASSE\source\repos\NoteExamen_P3\NoteExamen_P3\obj\Debug\net6.0-windows\NoteExamen_P3.AssemblyInfoInputs.cache
+C:\Users\ABASSE\source\repos\NoteExamen_P3\NoteExamen_P3\obj\Debug\net6.0-windows\NoteExamen_P3.AssemblyInfo.vb
+C:\Users\ABASSE\source\repos\NoteExamen_P3\NoteExamen_P3\obj\Debug\net6.0-windows\NoteExamen_P3.vbproj.CoreCompileInputs.cache
+C:\Users\ABASSE\source\repos\NoteExamen_P3\NoteExamen_P3\obj\Debug\net6.0-windows\NoteExamen_P3.dll
+C:\Users\ABASSE\source\repos\NoteExamen_P3\NoteExamen_P3\obj\Debug\net6.0-windows\refint\NoteExamen_P3.dll
+C:\Users\ABASSE\source\repos\NoteExamen_P3\NoteExamen_P3\obj\Debug\net6.0-windows\NoteExamen_P3.pdb
+C:\Users\ABASSE\source\repos\NoteExamen_P3\NoteExamen_P3\obj\Debug\net6.0-windows\NoteExamen_P3.genruntimeconfig.cache
+C:\Users\ABASSE\source\repos\NoteExamen_P3\NoteExamen_P3\obj\Debug\net6.0-windows\ref\NoteExamen_P3.dll
